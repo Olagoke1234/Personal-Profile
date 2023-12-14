@@ -77,3 +77,7 @@ p {
     margin: 25px 0;
   }
 }
+
+.flex {
+  display: flex;
+}
